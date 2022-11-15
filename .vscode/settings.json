@@ -17,13 +17,14 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "workbench.activityBar.visible": true,
+  "workbench.activityBar.visible": false,
   "workbench.colorTheme": "Material Dark Theme",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true,
+  "workbench.statusBar.visible": false,
   "liveServer.settings.root": "/docs",
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
   "liveServer.settings.donotVerifyTags": true,
-  "breadcrumbs.enabled": false
+  "breadcrumbs.enabled": false,
+  "editor.lightbulb.enabled": false
 }

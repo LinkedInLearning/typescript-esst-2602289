@@ -1,0 +1,21 @@
+{
+  "name": "typescript-esst-2602289",
+  "version": "1.0.0",
+  "module": "true",
+  "description": "Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkedInLearning/typescript-esst-2602289.git"
+  },
+  "keywords": [],
+  "author": "David Lorenz <info@activenode.de>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LinkedInLearning/typescript-esst-2602289/issues"
+  },
+  "homepage": "https://github.com/LinkedInLearning/typescript-esst-2602289#readme"
+}

@@ -1,7 +1,6 @@
-let price = 100;
+export function Demo() {
+  let price = 100;
 
-price = price + " EUR";
-
-const internationalCurrency = "USD";
-
-internationalCurrency = 'YEN';
+  const priceString = price + " EUR";
+  priceString = "hallo";
+}
