@@ -7,6 +7,7 @@ export function Demo() {
     };
     hobbies: string[];
   };
+
   let person: AuthorObject[] = [
     {
       author: "David Lorenz",
