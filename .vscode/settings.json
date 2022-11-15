@@ -18,11 +18,12 @@
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
   "workbench.activityBar.visible": true,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Material Dark Theme",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "liveServer.settings.root": "/docs",
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "breadcrumbs.enabled": false
 }
