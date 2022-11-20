@@ -4,6 +4,9 @@
   "module": "true",
   "description": "Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].",
   "main": "index.js",
+  "dependencies": {
+    "moo": "^0.5.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LinkedInLearning/typescript-esst-2602289/issues"
   },
-  "homepage": "https://github.com/LinkedInLearning/typescript-esst-2602289#readme"
+  "homepage": "https://github.com/LinkedInLearning/typescript-esst-2602289#readme",
+  "devDependencies": {
+    "@types/moo": "^0.5.5"
+  }
 }

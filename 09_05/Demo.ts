@@ -1,3 +1,8 @@
-import { Hello } from "./types";
+import type { Hello, MyObject } from "./types";
 
-const s: Hello = "hallo";
+export function Demo() {
+  const s: Hello = "hallo";
+  const o: MyObject = {
+    foo: "text",
+  };
+}
