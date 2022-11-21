@@ -1,12 +1,13 @@
 export function Demo() {
-  let myString: string = "Hello!";
+  let myString: string = "Hallo";
   let myNumber: number = 123;
   let myBoolean: boolean = true;
 
-  let myUndefined: boolean;
-  // myUndefined = 'string';
-  myUndefined = false;
-  // myUndefined = 123;
-  let myNull: string = null;
-  myNull = "test";
+  let myUndefined: string;
+  myUndefined = "test";
+  // myUndefined = true;
+  // myUndefined = 2;
+
+  let myNull: boolean = null;
+  myNull = false;
 }
