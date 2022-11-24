@@ -6,4 +6,6 @@ const ComplexFunction = () => {
 
 export function Challenge() {
   type ComplexFunctionType = typeof ComplexFunction;
+
+  type ReturnedObjectType = any;
 }
