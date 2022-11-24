@@ -25,7 +25,5 @@
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
   "liveServer.settings.donotVerifyTags": true,
-  "breadcrumbs.enabled": false,
-  "editor.lightbulb.enabled": false,
-  "gitlens.currentLine.enabled": false
+  "breadcrumbs.enabled": false
 }

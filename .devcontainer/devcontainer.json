@@ -7,6 +7,17 @@
     "stylelint.vscode-stylelint"
     // Additional Extensions Here
   ],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "gitlens.currentLine.enabled": false,
+        "gitlens.codeLens.authors.enabled": false,
+        "gitlens.blame.highlight.enabled": false,
+        "gitlens.blame.format": "",
+        "editor.lightbulb.enabled": false
+      }
+    }
+  },
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
 }
 
