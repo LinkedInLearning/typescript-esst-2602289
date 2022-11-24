@@ -17,7 +17,7 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "workbench.activityBar.visible": false,
+  "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Material Dark Theme",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
