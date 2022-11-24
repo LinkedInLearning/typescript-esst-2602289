@@ -20,11 +20,12 @@
   "workbench.activityBar.visible": false,
   "workbench.colorTheme": "Material Dark Theme",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "liveServer.settings.root": "/docs",
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
   "liveServer.settings.donotVerifyTags": true,
   "breadcrumbs.enabled": false,
-  "editor.lightbulb.enabled": false
+  "editor.lightbulb.enabled": false,
+  "gitlens.currentLine.enabled": false
 }
