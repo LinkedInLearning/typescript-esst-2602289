@@ -1,6 +1,6 @@
 const ComplexFunction = () => {
   return () => {
-    return [2, { courseName: "TypeScript" }] as const;
+    return [2, { courseName: "TypeScript" }];
   };
 };
 

@@ -1,13 +1,13 @@
 const ComplexFunction = () => {
   return () => {
-    return [2, { courseName: "TypeScript" }] as const;
+    return [2, { courseName: "TypeScript" }];
   };
 };
 
 export function Challenge() {
   type ComplexFunctionType = typeof ComplexFunction;
   type InnerFunctionType = ReturnType<ComplexFunctionType>;
-  type ArrayType = ReturnType<InnerFunctionType>;
-  type SecondEntry = ArrayType[1];
-  type ReturnedObjectType = SecondEntry;
+  type InnerFunctionReturn = ReturnType<InnerFunctionType>;
+  type SecondType = InnerFunctionReturn[number];
+  type ReturnedObjectType = Exclude<SecondType, number>;
 }
