@@ -1,10 +1,12 @@
-# [DE-Kursname hier eintragen]
+# TypeScript Grundkurs
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `[TypeScript Grundkurs]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![COURSENAME][lil-thumbnail-url]
 
-[COURSEDESCRIPTION]
+Als Obermenge von JavaScript fügt die von Microsoft entwickelte Programmiersprache TypeScript einige Schlüsselworte zu JavaScript hinzu, die die Stabilität und Lesbarkeit des Codes wesentlich verbessern. In diesem Grundlagenkurs zeigt Ihnen der erfahrene Front-end-Entwickler David Lorenz, wie Sie Typen definieren, kombinieren und ableiten und erläutert, wie Sie TypeScript-Typen vor allem in komplexen Anwendungen erfolgreich einsetzen.<br><br>
+
+Mit der Hilfe von Challenge/Solution-Einheiten können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der vom Trainer angebotenen Solution vergleichen. Zudem zeichnet sich der Kurs durch eine nahtlose Integration in GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus. Sie müssen keinen lokalen Rechner einrichten und können direkt zu jeder Zeit praktische Übungen durchführen.
 
 ## Anleitung
 
@@ -36,9 +38,9 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Name hier eintragen]**
+**David Lorenz**
 
-_[Berufsbezeichnung hier eintragen]_
+_Frontend-Architekt_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
 
