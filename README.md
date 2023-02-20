@@ -8,6 +8,9 @@ Als Obermenge von JavaScript fügt die von Microsoft entwickelte Programmierspra
 
 Mit der Hilfe von Challenge/Solution-Einheiten können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der vom Trainer angebotenen Solution vergleichen. Zudem zeichnet sich der Kurs durch eine nahtlose Integration in GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus. Sie müssen keinen lokalen Rechner einrichten und können direkt zu jeder Zeit praktische Übungen durchführen.
 
+### Installation
+
+Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
 
 ### Autor
 
